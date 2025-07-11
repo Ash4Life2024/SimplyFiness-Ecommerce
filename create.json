@@ -1,0 +1,6 @@
+{
+  "name": "Simply Fitness E-commerce",
+  "description": "Affiliate-powered e-commerce app with smart tracking and seller dashboards.",
+  "entry": "main.py",
+  "language": "python"
+}
